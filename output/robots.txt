@@ -1,4 +1,0 @@
-Sitemap: https://cocallag.github.io/oxsalt/sitemapindex.xml
-
-User-Agent: *
-Host: cocallag.github.io
