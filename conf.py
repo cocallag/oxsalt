@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Chris O'Callaghan"  # (translatable)
-BLOG_TITLE = "O'Callaghan Group"  # (translatable)
+BLOG_TITLE = "OxSalt"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://cocallag.github.io/oxsalt/"
@@ -152,9 +152,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         #("../", "Home"),
         ("/index.html", "Home"),
-        ("/research/", "Research"),
-        ("/people/index.html", "People"),
-        ("/publications/","Publications"),
+        ("/why/", "Why"),
+        ("/checking/", "Checking"),
+        ("/how/","How To"),
+        ("/files/", "Files"),
         ("/contact/", "Contact")
     ),
 }
@@ -1181,10 +1182,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
