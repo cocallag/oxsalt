@@ -15,7 +15,8 @@
 
 
 O'Callaghan Group |br| 
-Wellcome Centre for Human Genetics |br| 
+Nuffield Department of Medicine |br|
+University of Oxford |br| 
 Roosevelt Drive |br| 
 Oxford |br| 
 OX3 7BN |br| 
@@ -24,4 +25,4 @@ UK
 Travel directions are here_.
 
 
-.. _here: https://www.well.ox.ac.uk/contact/find-us
+.. _here: https://www.chg.ox.ac.uk/contact/find-us

@@ -12,20 +12,41 @@
 
    <br />
 
+It is useful to have some idea of how much salt you are eating and which foods contain the most salt. The recommendation is that we should eat less than 6 grams of salt per day
+This website should help you to understand your diet and make adjustments to reduce your salt intake and improve your health. 
+Try using a food diary from time to time to monitor your salt intake. 
 
+Food Diaries
+~~~~~~~~~~~~
+Food Diaries can be very useful if you want to check how much salt you are eating. You don't need to keep a diary all the time, but occasionally it is useful to review everything you ate on a particular day to get an idea of the amount of salt that you're eating. 
+A simple way of doing this is to carry a food diary sheet around with you and write down what you eat on it.  Or just make a note of what you eat on your phone. Probably the simplest way to keep a food diary is to photograph what you eat (including snacks!) and then work out how much salt was in the food later on. Just looking over these photos at the end of the day will help you review how much salt you are eating as you will spot the foods that are high in salt. 
+When you do a food diary: 
+If the food has a food label on it then make a note of the amount of salt in the food and how much of the food you eat. 
+If it doesn't have a food label then make a note of how much if it you eat and work out how much salt is in it later by looking the food up in the food charts - there's a printable food diary if you need one. 
 
-We have a range of research projects. Our focus is on identifying new pathways in atherosclerotic disease, particularly in inflammatory aspects of the disease. |br| 
-This often involves studies of gene regulation and as part of this we have developed a technology for the assembly of large DNA fragments. 
+Salt and Sodium
+~~~~~~~~~~~~~~~
+Salt is made of two parts, sodium and chloride. Some food labels state how much salt is in the food and some food labels state how much sodium is in the food.
+If there is a lot of salt or a lot of sodium in one particular food this may take you over the recommended daily salt intake of less than 6 grams per day.
+You can easily convert sodium to salt to convert sodium to salt by multiplying by 2.5. 
+If a food contains 1 gram of sodium then it contains 2.5 grams of salt.
+Remember: 
+1 g of sodium = 2.5 g of salt
 
-Our institutional webpages are `here <https://www.well.ox.ac.uk/research/research-groups/ocallaghan-group-1>`_ . 
+Understanding food labels
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Food labels can be confusing, but can also be a useful way of working out how much salt food contains. Make a habit of looking at the food labels before you decide to buy or eat something.
+Remember that the amount of salt you eat also depends on the portion size of the food you eat.
+Some food labels use the traffic like system to help us make healthier choices. The traffic light system gives information on salt as well as fat, sugar and calories, labelling red for high, amber for medium and green for low content. Choosing foods with more green and amber than red helps us make healthier choices.
+Have a look at the handy shopping guide to find lower salt alternatives to salty food.
+There is a more complete list of foods and their salt content in our booklet. 
 
-see preprints here `link to preprints page </preprints/>`_
+Portion size matters
+~~~~~~~~~~~~~~~~~~~~~
+But that the amount sought to eat also depends on the portion size of food you eat.
+If you eat a lot of food that contains A moderate amount of salt then the total amount of salt that you eat may be substantial.
 
-try this `link to contact page </contact/>`_
 
 
 try this `Some figures and formatting </figures/>`_ and then more text
 
-a link to another page people_
-
-.. _people: /people/
