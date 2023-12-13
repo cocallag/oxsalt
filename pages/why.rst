@@ -30,7 +30,14 @@ If you already have high blood pressure and are on treatment for it, then loweri
 Read what the blood pressure association says about salt here.
 Read what the British hypertension society says about salt here.
 
+.. list-table::  Blood Pressure
+   :widths: 50 50
+   :header-rows: 0
 
+   * - Blood Pressure
+     - .. image:: /images/salt_caution.jpg
+   * - Heart Disease: Salt raises blood pressure. High blood pressure causes heart disease including heart attacks, angina and heart failure. If you can lower your salt intake you will lower your blood pressure and so reduce the chance of getting heart disease. If you already have heart disease, then lowering your salt intake will help to lower your blood pressure and so reduce the strain on your heart. If you already have heart failure, lowering your salt intake may help reduce the amount of swelling and fluid retention that you experience. The swelling and fluid retention happen because your kidneys are not able to get rid of all the salt that you are eating. Read what the British Heart Foundation says about salt here.
+     - .. image:: /images/salt_pile.jpg
 
 Heart disease
 -------------
@@ -41,6 +48,13 @@ If you already have heart disease, then lowering your salt intake will help to l
 If you already have heart failure, lowering your salt intake may help reduce the amount of swelling and fluid retention that you experience. The swelling and fluid retention happen because your kidneys are not able to get rid of all the salt that you are eating.
 Read what the British Heart Foundation says about salt here.
 
+.. list-table::  Blood Pressure
+   :widths: 50 50
+   :header-rows: 0
+
+   * - Blood Pressure
+     - .. image:: /images/salt_caution.jpg
+
 
 Strokes
 --------
@@ -49,6 +63,14 @@ Salt raises blood pressure. High blood pressure causes strokes and mini-strokes 
 If you can lower your salt intake you will lower your blood pressure and so reduce the chance of having a stroke.
 If you have already had a stroke, then lowering your salt intake will help to lower your blood pressure and so reduce the chance of having a further stroke.
 Read what nice says about lowering salt here.
+
+.. list-table::  Blood Pressure
+   :widths: 50 50
+   :header-rows: 0
+
+   * - Heart Disease: Salt raises blood pressure. High blood pressure causes heart disease including heart attacks, angina and heart failure. If you can lower your salt intake you will lower your blood pressure and so reduce the chance of getting heart disease. If you already have heart disease, then lowering your salt intake will help to lower your blood pressure and so reduce the strain on your heart. If you already have heart failure, lowering your salt intake may help reduce the amount of swelling and fluid retention that you experience. The swelling and fluid retention happen because your kidneys are not able to get rid of all the salt that you are eating. Read what the British Heart Foundation says about salt here.
+     - .. image:: /images/salt_pile.jpg
+
 
 Chronic kidney disease
 ----------------------
