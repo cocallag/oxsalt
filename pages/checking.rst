@@ -30,8 +30,10 @@ Salt is made of two parts, sodium and chloride. Some food labels state how much 
 If there is a lot of salt or a lot of sodium in one particular food this may take you over the recommended daily salt intake of less than 6 grams per day.
 You can easily convert sodium to salt to convert sodium to salt by multiplying by 2.5. 
 If a food contains 1 gram of sodium then it contains 2.5 grams of salt.
-Remember: 
-1 g of sodium = 2.5 g of salt
+
+.. topic:: Remember 
+   
+   1 g of sodium = 2.5 g of salt
 
 Understanding food labels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
