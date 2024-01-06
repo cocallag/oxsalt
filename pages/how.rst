@@ -18,7 +18,14 @@ If you are convinced that you should lower your salt intake, then the next step 
 The OxSalt website provides tips and advice about how to do this and is worth looking around the site to see which of the suggestions you find helpful.
 A good place to start is the guide to reducing salt in your diet you can read or download it here
 
-Try using herbs spices or ingredients such as lemon, ginger, garlic or chilli to enhance the flavour of your food instead of salt.
+.. list-table::  
+   :widths: 50 50
+   :header-rows: 0
+
+   * - Try using herbs spices or ingredients such as lemon, ginger, garlic or chilli to enhance the flavour of your food instead of salt.
+     - .. image:: /images/seasonings.jpg
+
+
 
 Seasoning recipes
 -----------------
@@ -27,40 +34,40 @@ Instead of salt why not try some of the following seasoning suggestions when you
 
 Spicy blend
 ~~~~~~~~~~~
-¼ teaspoon freshly ground white pepper 
-1 tablespoon dry mustard
-¼ teaspoon ground cumin 
-1 teaspoon onion powder
-½ teaspoon garlic powder 
-¼ teaspoon curry powder
+* ¼ teaspoon freshly ground white pepper 
+* 1 tablespoon dry mustard
+* ¼ teaspoon ground cumin 
+* 1 teaspoon onion powder
+* ½ teaspoon garlic powder 
+* ¼ teaspoon curry powder
 
 Salt-less surprise
 ~~~~~~~~~~~~~~~~~~
-2 teaspoons garlic powder
-1 teaspoon dried basil
-1 teaspoon oregano
+* 2 teaspoons garlic powder
+* 1 teaspoon dried basil
+* 1 teaspoon oregano
 
 Spicy seasoning
 ~~~~~~~~~~~~~~~~
-1 teaspoon cloves
-1 teaspoon peppercorns
-1 teaspoon paprika
-1 teasppon coriander seed (crushed)
-1 tablespoon rosemary
+* 1 teaspoon cloves
+* 1 teaspoon peppercorns
+* 1 teaspoon paprika
+* 1 teasppon coriander seed (crushed)
+* 1 tablespoon rosemary
 
 Herb seasoning
 ~~~~~~~~~~~~~~
 
-1 tablespoons dried dill or basil
-1 teaspoon celery seed
-2 tablespoons onion powder
-¼ teaspoon (a pinch) dried oregano
-¼ teaspoon (a pinch) ground black pepper
+* 1 tablespoons dried dill or basil
+* 1 teaspoon celery seed
+* 2 tablespoons onion powder
+* ¼ teaspoon (a pinch) dried oregano
+* ¼ teaspoon (a pinch) ground black pepper
 
 
 Dining out tips
 ---------------
-If you eat out on a regularly, you may want to consider the following points:
+If you eat out, you may want to consider the following points:
 
 Appetizers
 ~~~~~~~~~~
@@ -82,19 +89,19 @@ Main courses
 Helpful resource 
 ------------------
 
-The OxSalt care bundle includes a range of useful resources that you can read and print out if you wish - click the links below. |br|  |br| 
-The OxSalt booklet |br| 
-The OxSalt Lowering Salt for Health gives you an overview of why and how you can lower your salt intake. You can look at it or download it here. |br| |br| 
-Quick Reference Shopping Guide |br| 
-Why not try our handy shopping guide to find lower salt alternatives to salty food. You can look at it or download it here. |br| |br| 
-Salt content portion table. |br| 
-If you know the amount of salt in 100 grams of a food and you have a rough idea of the size of the portions you are eating, then this handy table tells you how much salt is in that portion. You can look at it or download it here. |br| |br| 
-Detailed guide to the salt content of foods |br| 
-This is a more complete list of foods and their salt content and you can look at it or download it here. |br| |br| 
-Food diary |br| 
-Food diaries can be very useful if you want to check how much salt youa re eating. You can download a printable food diary sheet here. |br| |br| 
-OxSalt presentation |br| 
-This is presentation that you can review in your own time.
+The OxSalt care bundle includes a range of useful resources that you can `read and print out </files/>`_ if you wish. |br|  |br| 
+**The OxSalt booklet** |br|
+`The OxSalt Lowering Salt for Health Booklet </documents/004_salt_Information_booklet.pdf>`_  gives you an overview of why and how you can lower your salt intake. |br| |br| 
+**Quick Reference Shopping Guide** |br| 
+Why not try our `Handy shopping guide </documents/006_shopping_guide_and_portion_table.pdf>`_  to find lower salt alternatives to salty food. |br| |br| 
+**Salt content portion table** |br| 
+If you know the amount of salt in 100 grams of a food and you have a rough idea of the size of the portions you are eating, then this handy `Table of Salt Content per portion </documents/006_shopping_guide_and_portion_table.pdf>`_ tells you how much salt is in that portion. |br| |br| 
+**Detailed guide to the salt content of foods** |br| 
+This is a more complete `List of foods and their salt content </documents/005_salt_content_booklet.pdf>`_. |br| |br| 
+**Food diary** |br| 
+Food diaries can be very useful if you want to check how much salt you are eating. You can download a `printable food diary sheet </documents/011_food_diary.pdf>`_. |br| |br| 
+**OxSalt presentation** |br| 
+This is a `presentation </documents/003_presentation.pdf>`_ that you can review in your own time. You can also download a `Powerpoint version with a soundtrack </documents/003a_presentation_with_audio.pptx>`_. 
  
 Websites: 
 https://www.nhs.uk/live-well/eat-well/food-types/salt-in-your-diet/ 

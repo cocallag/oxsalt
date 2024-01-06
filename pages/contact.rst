@@ -14,7 +14,7 @@
 
 
 
-O'Callaghan Group |br| 
+Chris O'Callaghan |br| 
 Nuffield Department of Medicine |br|
 University of Oxford |br| 
 Roosevelt Drive |br| 
@@ -22,7 +22,5 @@ Oxford |br|
 OX3 7BN |br| 
 UK
 
-Travel directions are here_.
+chris.ocallaghan (at) ndm.ox.ac.uk
 
-
-.. _here: https://www.chg.ox.ac.uk/contact/find-us

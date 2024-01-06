@@ -26,7 +26,8 @@ The following documents can be viewed online and/or downloaded:
 
     `001_overview </documents/001_overview.pdf>`_, "An overview of the OxSalt care bundle.", pdf
     `002_script </documents/002_script.pdf>`_, "A written version of the script for the learning presentation.", pdf
-    `003_presentation </documents/003_presentation.pdf>`_, "The Powerpoint version of the presentation and includes a soundtrack of the script.", pdf
+    `003_presentation </documents/003_presentation.pdf>`_, "The OxSalt presentation in pdf format without audio.", pdf
+    `003a_presentation_with_audio </documents/003a_presentation_with_audio.pptx>`_, "The Powerpoint version of the presentation which includes a soundtrack of the script.", pptx
     `004_salt_Information_booklet </documents/004_salt_Information_booklet.pdf>`_, "A booklet with information about salt and health.", pdf
     `005_salt_content_booklet </documents/005_salt_content_booklet.pdf>`_, "A booklet with information about the salt content of a range of foods. ", pdf
     `006_shopping_guide_and_portion_table </documents/006_shopping_guide_and_portion_table.pdf>`_, "A 2-sided document that could be folded and carried for use when shopping. On one side is a shopping guide that indicates red, amber and green choices. On the other side is a table showing how much salt would be in a portion of a particular size. ", pdf
