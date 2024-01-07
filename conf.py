@@ -157,6 +157,7 @@ NAVIGATION_LINKS = {
         ("/checking/", "Checking"),
         ("/how/","How To"),
         ("/files/", "Files"),
+        ("/professionals/", "Healthcare Professionals"),
         ("/contact/", "Contact")
     ),
 }

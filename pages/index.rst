@@ -14,7 +14,7 @@
 
 
 
-This website supports the OxSalt care bundle, which is an intervention package developed to empower people with chronic kidney disease to lower their salt intake. 
+This website supports the OxSalt care bundle, which is an intervention package developed to empower people with chronic kidney disease to lower their salt intake. If you want to reduce your own salt intake, click on Start from the menu or `click here </start/>`_. 
 
 
 The OxSalt care bundle was shown to work in a randomized clinical trial whch has been published in Kidney360, a peer-reviewed journal of the `American Society of Nephrology <https://www.asn-online.org/>`_. 
@@ -25,7 +25,7 @@ The OxSalt care bundle was shown to work in a randomized clinical trial whch has
 
 You can read this publication on the `Kidney360 journal website <https://journals.lww.com/kidney360/fulltext/2023/07000/evaluation_of_a_simple_low_cost_intervention_to.5.aspx>`_ or on `PubMedCentral <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10371291/>`_. 
 
-You can view and download details of the intervention by clicking on the Files tab above or the image below. |br|
+You can view and download details of the intervention by clicking on the Files tab above or on the image below. |br|
 
 .. figure:: /images/eat_less_salt.jpg
     :align: center

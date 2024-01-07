@@ -46,4 +46,4 @@ The following documents can be viewed online and/or downloaded:
 ..
     this is a comment
 
-Editable versions of some of these files are available on request if needed
+Editable versions of some of these files are available on request if needed.
