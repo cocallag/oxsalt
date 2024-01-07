@@ -12,7 +12,7 @@
 
    <br />
 
-Welcome to the ox salt website. This site is designed to help you to reduce the amount of salt you eat. 
+Welcome to the OxSalt website. This site is designed to help you to reduce the amount of salt you eat. 
 There is lots of information and tools to help you reduce the amount of salt in your diet.
 The key steps are to:
 
