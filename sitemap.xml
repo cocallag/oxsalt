@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://cocallag.github.io/oxsalt/</loc>
-  <lastmod>2024-01-06T11:00:00Z</lastmod>
+  <lastmod>2024-01-06T14:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/oxsalt/archive.html</loc>
-  <lastmod>2024-01-05T18:29:00Z</lastmod>
+  <lastmod>2024-01-06T14:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/oxsalt/blog/</loc>
@@ -56,6 +56,10 @@
  <url>
   <loc>https://cocallag.github.io/oxsalt/preprints/</loc>
   <lastmod>2023-12-14T15:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/oxsalt/professionals/</loc>
+  <lastmod>2024-01-06T14:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/oxsalt/start/</loc>
